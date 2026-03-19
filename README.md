@@ -1,7 +1,7 @@
 
-  # Create scrolling overlay element
+  # Sticky Ribbon
 
-  This is a code bundle for Create scrolling overlay element. The original project is available at https://www.figma.com/design/6kYBG84Sh1HID2icCaCRDu/Create-scrolling-overlay-element.
+  This is a code bundle for a sticky ribbon element with animation.
 
   ## Running the code
 
