@@ -137,7 +137,7 @@ export default function InteractiveRibbon() {
           </div>
           <div className="absolute flex h-[39.354px] items-center justify-center left-[49px] top-[108px] w-[56.893px] transition-all duration-300 animate-in fade-in zoom-in z-0" style={{ "--transform-inner-width": "1200", "--transform-inner-height": "21" } as React.CSSProperties}>
             <div className="flex-none rotate-[-25.95deg]">
-              <a href="https://codepen.io/RobotsPlay/pen/MagEeO" className="decoration-solid font-['Lato:Black',sans-serif] leading-[normal] not-italic relative text-[14px] text-white tracking-[0.7px] underline whitespace-nowrap hover:opacity-80 transition-opacity">
+              <a href="" className="decoration-solid font-['Lato:Black',sans-serif] leading-[normal] not-italic relative text-[14px] text-white tracking-[0.7px] underline whitespace-nowrap hover:opacity-80 transition-opacity">
                 Join Us!
               </a>
             </div>
